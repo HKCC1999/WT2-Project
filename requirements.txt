@@ -3,7 +3,6 @@ The WT2 Project has 2 Components:
   a.) FrontEnd & BackEnd - This component has 8 marks
   b.) Intelligent Component - This component has 2 marks
   
-  
-  
+This has to be done by 20 November 2019
   
   

@@ -1,0 +1,9 @@
+The WT2 Project has 2 Components:
+  
+  a.) FrontEnd & BackEnd
+  b.) Intelligent Component
+  
+  
+  
+  
+  

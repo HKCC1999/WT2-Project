@@ -1,7 +1,7 @@
 The WT2 Project has 2 Components:
   
-  a.) FrontEnd & BackEnd
-  b.) Intelligent Component
+  a.) FrontEnd & BackEnd - This component has 8 marks
+  b.) Intelligent Component - This component has 2 marks
   
   
   
